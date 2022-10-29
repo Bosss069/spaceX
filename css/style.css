@@ -5,6 +5,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    /* border: 1px solid red; */
 }
 h1{
     background: #120632;
@@ -19,7 +20,8 @@ body
     background: #1e9bff;
     background: #191a1d;
     background: black;
-    
+    background-image:url(/images/background.jpg) ;
+    background-size: cover;
     flex-direction: column ;
     gap:40px;
 
@@ -27,6 +29,7 @@ body
 
 a
 {
+    top: 230px;
     position: relative;
     background: gray;
     color: #fff;
