@@ -20,7 +20,7 @@ body
     background: #1e9bff;
     background: #191a1d;
     background: black;
-    background-image:url(/images/pexels-johann-piber-695657.jpg) ;
+    background-image:url(../images/pexels-johann-piber-695657.jpg) ;
     background-size: cover;
     flex-direction: column ;
     gap:40px;
