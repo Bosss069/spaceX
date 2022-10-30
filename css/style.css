@@ -7,7 +7,12 @@
 body{
     background-image: url(../images/pexels-johann-piber-695657.jpg);
 }
-  
+.rocket_section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
 }
-/*Button CSS end*/
->>>>>>> 9641d809cf80ceb708fa393666fb93c3c2ec2144
+.rocket{
+    border: 1px solid red;
+}
