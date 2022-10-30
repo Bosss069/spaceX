@@ -5,22 +5,23 @@
 
 }
 body{
-    background-image: url(../images/pexels-johann-piber-695657.jpg);
     
 }
 .rocket_section{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 300px;
-     width: 100px;
-     height: 100px;
-     
-   
+    height: 100vh;
+     background-size: cover; 
+     overflow: hidden;
+     background-image: url(../images/pexels-johann-piber-695657.jpg);
 }
 .rocket{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 420px;
     border: 1px soxlid red;
-    height: 300px;
-   transform: translateY(-9.1rem);
-    transition: all 2s linear;
+    height: 350px;
+    
 }
