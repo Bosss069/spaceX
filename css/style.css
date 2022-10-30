@@ -10,28 +10,6 @@ body{
 .rocket_section{
     display: flex;
     align-items: center;
-<<<<<<< HEAD
-    justify-content: space-around;
-    flex-direction: column;
-}
-.rocket{
-    margin-top: 301px;
-    border: 1px soxlid red;
-    height: 300px;
-    transform: translateY(-550px);
-    transition: all 2s linear;
-    /* transform: translateY(550px); */
-    /* transition: all 2s linear; */
-}
-.cloud{
-    
-    border: 1px solid red;
-}
-.cloudX, .cloudY{
-    height: 200px;
-    transform: translateX(100px);
-    transition: all 2s linear;
-=======
     justify-content: center;
     height: 100vh;
      background-size: cover; 
@@ -46,5 +24,10 @@ body{
     border: 1px soxlid red;
     height: 350px;
     
->>>>>>> 76cecb91b46dc3fb0fbd9c72b4d22002c278919f
+}
+.cloud1{
+    /* height: 50%; */
+    width: 40%;
+    margin-top: 20%;
+    
 }
