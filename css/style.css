@@ -13,10 +13,14 @@ body{
     align-items: center;
     justify-content: center;
     margin-top: 300px;
+     width: 100px;
+     height: 100px;
+      background: red;
+    transition: width 2s;
 }
 .rocket{
     border: 1px soxlid red;
     height: 300px;
-    transform: translateY(-550px);
+   transform: translateY(-9.1rem);
     transition: all 2s linear;
 }
