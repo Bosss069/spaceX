@@ -10,7 +10,6 @@ body{
 .rocket_section{
     display: flex;
     align-items: center;
-<<<<<<< HEAD
     justify-content: space-around;
     flex-direction: column;
 }
@@ -31,7 +30,6 @@ body{
     height: 200px;
     transform: translateX(100px);
     transition: all 2s linear;
-=======
     justify-content: center;
     height: 100vh;
      background-size: cover; 
@@ -46,5 +44,4 @@ body{
     border: 1px soxlid red;
     height: 350px;
     
->>>>>>> 76cecb91b46dc3fb0fbd9c72b4d22002c278919f
 }
