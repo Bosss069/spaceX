@@ -6,13 +6,17 @@
 }
 body{
     background-image: url(../images/pexels-johann-piber-695657.jpg);
+    
 }
 .rocket_section{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 150px;
+    margin-top: 300px;
 }
 .rocket{
-    border: 1px solid red;
+    border: 1px soxlid red;
+    height: 300px;
+    transform: translateY(-550px);
+    transition: all 2s linear;
 }
