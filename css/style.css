@@ -5,12 +5,12 @@
 
 }
 body{
+    box-shadow: none;
     
 }
 .rocket_section{
     display: flex;
     align-items: center;
-<<<<<<< HEAD
     justify-content: space-around;
     flex-direction: column;
 }
@@ -31,8 +31,6 @@ body{
     height: 200px;
     transform: translateX(100px);
     transition: all 2s linear;
-=======
->>>>>>> 46248abaf2e75435a1a9f4a74c81066ef1ffdfbc
     justify-content: center;
     height: 100vh;
      background-size: cover; 
@@ -47,13 +45,4 @@ body{
     border: 1px soxlid red;
     height: 350px;
     
-<<<<<<< HEAD
-=======
-}
-.cloud1{
-    /* height: 50%; */
-    width: 40%;
-    margin-top: 20%;
-    
->>>>>>> 46248abaf2e75435a1a9f4a74c81066ef1ffdfbc
 }
